@@ -1,0 +1,93 @@
+
+* {
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.first,
+.second,
+.third {
+    color: rgb(111, 0, 255);
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.first {
+    background-color:rgb(240, 252, 140);
+}
+
+.second {
+    background-color:rgb(154, 255, 129);
+}
+
+.third {
+    background-color:aquamarine;
+}
+
+#hptitle {
+    font-size: 48px;
+    color:rgb(255, 0, 200);
+    background-color: black;
+    font-weight: 1000;
+}
+
+.step li {
+    font-size: 18px;
+    font-weight: 300;
+    color: hsl(120, 100%, 16%);
+}
+
+.ingred li {
+    font-size: 22px;
+    font-weight: 400;
+    color: purple;
+}
+
+.i-title {
+    background-color:rgb(240, 252, 140);
+    color: orangered;
+    font-size: 34px;
+    font-weight: 600;
+}
+
+.s-title {
+    background-color:rgb(140, 248, 252);
+    color: rgb(253, 19, 19);
+    font-size: 30px;
+    font-weight: 500;
+}
+
+p {
+    color:rgb(15, 19, 19);
+}
+
+.d-title {
+    color: burlywood;
+    font-weight: 700;
+    font-size: 28px;
+    background-color: black;
+}
+
+img {
+    width: 350px;
+    height: auto;
+}
+
+h1 {
+    font-size: 55px;
+    font-weight: 1000;
+}
+
+.p-title {
+    color: rgb(255, 174, 0);
+    background-color: beige;
+}
+
+.w-title {
+    color: gray;
+    background-color: goldenrod;
+}
+
+.f-title {
+    color: brown;
+    background-color: lightcoral;
+}
